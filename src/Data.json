@@ -1,0 +1,14 @@
+[
+  {
+    "Query": "How to start computer",
+    "solution": [
+      "Step 1: Find the 'on' button. It probably looks like this (but might be square or oblong!)",
+      "Step 2: Push the button. On some computers, the button lights up when the computer is on.",
+      "Step 3: Now you need to log in"
+    ]
+  },
+  {
+    "Query": "How to Shut down computer",
+    "solution": "Alt+F4 and click down arrow till shut down option arrives and click enter"
+  }
+]

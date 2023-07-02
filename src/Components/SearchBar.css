@@ -1,0 +1,44 @@
+.search {
+  display: flex;
+  align-items: flex-start; /* Align search bar and results vertically */
+}
+
+.searchInputs {
+  margin-right: 20px;
+}
+
+.searchBar {
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+  font-size: 16px;
+  border: none;
+}
+
+.dataResult {
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow-y: auto;
+}
+
+.dataItem {
+  height: fit-content;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dataItem p {
+  margin: 0;
+  font-size: 16px;
+  color: black;
+}
+
+.dataItem p:first-child {
+  font-weight: bold;
+}
+
+.dataItem:hover {
+  background-color: lightgray;
+}
