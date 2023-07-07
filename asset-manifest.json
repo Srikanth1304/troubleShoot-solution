@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Query.git/static/css/main.eecad5f9.css",
+    "main.js": "/Query.git/static/js/main.02259274.js",
+    "static/js/787.710ab5ef.chunk.js": "/Query.git/static/js/787.710ab5ef.chunk.js",
+    "index.html": "/Query.git/index.html",
+    "main.eecad5f9.css.map": "/Query.git/static/css/main.eecad5f9.css.map",
+    "main.02259274.js.map": "/Query.git/static/js/main.02259274.js.map",
+    "787.710ab5ef.chunk.js.map": "/Query.git/static/js/787.710ab5ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecad5f9.css",
+    "static/js/main.02259274.js"
+  ]
+}
