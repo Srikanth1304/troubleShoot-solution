@@ -26,7 +26,13 @@ function SearchBar({ data }) {
 
     // Find the selected query in the data array and set the corresponding solution
     const selectedData = data.find((item) => item.Query === query);
-    setSelectedSolution(selectedData?.solution);
+    setSelectedSolution(selectedData?.Solution);
+  };
+
+  const clearSearch = () => {
+    setSelectedQuery('');
+    setFilteredData([]);
+    setSelectedSolution('');
   };
 
   return (
@@ -34,10 +40,15 @@ function SearchBar({ data }) {
       <div className="searchInputs">
         <input
           type="text"
-          placeholder="Search"
+          placeholder="Keyword"
           value={selectedQuery}
           onChange={handleFilter}
         />
+        {selectedQuery && (
+          <span className="close-icon" onClick={clearSearch}>
+            X
+          </span>
+        )}
       </div>
       {filteredData.length > 0 && (
         <div className="dataResult">
@@ -56,7 +67,13 @@ function SearchBar({ data }) {
       )}
       {selectedSolution && (
         <div className="selectedSolution">
-          <p>{selectedSolution}</p>
+          {Array.isArray(selectedSolution) ? (
+            selectedSolution.map((step, index) => (
+              <p key={index}>{step}</p>
+            ))
+          ) : (
+            <p>{selectedSolution}</p>
+          )}
         </div>
       )}
     </div>
@@ -64,4 +81,6 @@ function SearchBar({ data }) {
 }
 
 export default SearchBar;
+
+
 

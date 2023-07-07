@@ -1,14 +1,803 @@
 [
+
+
+  
+
+
   {
-    "Query": "How to start computer",
-    "solution": [
-      "Step 1: Find the 'on' button. It probably looks like this (but might be square or oblong!)",
-      "Step 2: Push the button. On some computers, the button lights up when the computer is on.",
-      "Step 3: Now you need to log in"
+    "Query": "How to add an attachment to an email message?",
+    "Solution": [
+    "To share a file, you can attach it to your message. You can also attach other Outlook items, such as messages, contacts, or tasks.",
+    "1. Create a new message, or choose an existing message and choose Reply, Reply All, or Forward.",
+    "2. In the message window, choose Message > Attach File."
     ]
+    },
+    {
+      "Query": "How to reply to an email message?",
+      "Solution": [
+        "1. On the ribbon or in the reading pane, choose Reply, Reply All, or Forward.",
+        "2. In the To, Cc, or Bcc box, do one of the following:",
+        "   a. To add a recipient, click in the appropriate box and enter the recipient's name.",
+        "   b. To remove a recipient, click in the appropriate box, choose the recipient's name, and then press Delete."
+      ]
+    },
+    {
+      "Query": "How to create a new email message?",
+      "Solution": [
+        "From any mail folder (such as your Inbox), choose New Email.",
+        "New email",
+        "Keyboard shortcut: To create an email message, press Ctrl+Shift+M.",
+        "When you’re done composing your email, choose Send.",
+        "For more information, see Create an email message."
+      ]
+    },
+    {
+      "Query": "How to forward an email in Outlook?",
+      "Solution": [
+        "Select the email you want to forward by clicking on it in your mailbox.",
+        "Click on the \"Forward\" button in the toolbar or right-click on the email and choose \"Forward\" from the context menu.",
+        "In the new email window that opens, enter the recipient's email address in the \"To\" field and click \"Send\" to forward the email."
+      ]
+    },
+    {
+      "Query": "How do I create a new calendar event in Outlook?",
+      "Solution": [
+        "Open Outlook and navigate to the calendar view.",
+        "Click on the desired date and time when you want to create the event.",
+        "In the event creation window that appears, enter the details of the event, such as the title, location, start time, and end time. Optionally, you can set a reminder, add attendees, and include any additional notes. Once you've filled in the necessary information, click on the \"Save\" or \"Create\" button to save the event."
+      ]
+    },
+    
+    {
+      "Query": "How do I search for emails or contacts in Outlook?",
+      "Solution": [
+        "Open Outlook and navigate to the folder where you want to search for emails or contacts, such as the Inbox or Contacts folder.",
+        "Look for the search box at the top of the Outlook window. Click inside the search box to activate it.",
+        "Enter your search query into the search box. You can search for specific keywords, sender names, subject lines, or any other relevant information. As you type, Outlook will start displaying the search results in real-time, and you can click on any item to view it."
+      ]
+    },
+    {
+      "Query": "How do I create folders to organize my emails in Outlook?",
+      "Solution": [
+        "Open Outlook and navigate to your mailbox or the folder where you want to create a new folder.",
+        "Right-click on the parent folder (the folder under which you want to create the new folder) and select \"New Folder\" from the context menu.",
+        "In the \"Create New Folder\" window that appears, enter a name for the new folder in the \"Name\" field. You can also choose the location where you want to create the folder, select its properties, and set any desired folder permissions. Once you've entered the necessary information, click on the \"OK\" or \"Create\" button to create the folder."
+      ]
+    },
+    {
+      "Query": "How do I delete or archive emails in Outlook?",
+      "Solution": [
+        "Open Outlook and navigate to the folder containing the emails you want to delete or archive, such as the Inbox or Sent Items folder.",
+        "Select the email or emails you want to delete or archive. You can do this by clicking on the email while holding the Ctrl key to select multiple emails, or by using the checkboxes next to each email.",
+        "To delete the selected emails, press the Delete key on your keyboard or right-click on the selected emails and choose \"Delete\" from the context menu. To archive the selected emails, you can click on the Archive button in the toolbar or right-click on the selected emails and choose \"Archive\" from the context menu."
+      ]
+    },
+
+    {
+  "Query": "How do I recover deleted emails in Outlook?",
+  "Solution": [
+    "Open Outlook and navigate to the \"Deleted Items\" folder. This folder contains the emails that you have recently deleted.",
+    "In the \"Deleted Items\" folder, locate the email or emails that you want to recover. You can scroll through the list or use the search box at the top to find specific emails.",
+    "Once you've found the email(s) you want to recover, right-click on the email and choose the \"Move\" or \"Restore\" option from the context menu. Select the desired folder where you want to restore the email(s), such as the Inbox or another folder of your choice."
+  ]
+},
+{
+  "Query": "How do I change my Outlook 365 password?",
+  "Solution": [
+    "Log in to your Outlook 365 account using your current username and password.",
+    "Once logged in, navigate to your account settings. You can usually find this by clicking on your profile picture or initials in the top right corner and selecting \"Account Settings\" or a similar option.",
+    "In the account settings, look for the option to change your password. Click on this option and follow the prompts to enter your current password and create a new password. Make sure to choose a strong, unique password that you haven't used before. Once you've entered the necessary information, save the changes to update your Outlook 365 password."
+  ]
+},
+{
+  "Query": "How do I access Outlook 365 on my mobile device?",
+  "Solution": [
+    "On your mobile device, open the app store (e.g., Google Play Store for Android or App Store for iOS).",
+    "Search for the \"Outlook\" app developed by Microsoft Corporation and install it on your device.",
+    "Once installed, open the Outlook app and sign in with your Outlook 365 account credentials. If you don't have an Outlook 365 account, you can create one within the app. After signing in, you'll be able to access your Outlook 365 emails, calendar, contacts, and other features on your mobile device."
+  ]
+},
+
+{
+  "Query": "How do I invite others in a meeting in Outlook?",
+  "Solution": [
+    "Open Outlook and navigate to the calendar view.",
+    "Create a new meeting by selecting the desired date and time for the meeting.",
+    "In the meeting creation window, enter the meeting details such as the title, location, start time, and end time. Then, click on the 'Invite Attendees' or 'Add Attendees' option. Enter the email addresses of the people you want to invite, or choose attendees from your contacts. You can also use the scheduling assistant to check their availability. Once you've added the attendees, click on the 'Send' button to send the meeting invitation."
+  ]
+},
+
+{
+  "Query": "What is Microsoft Teams and what is it used for?",
+  "Solution": [
+  "Step 1: Microsoft Teams is a collaboration platform developed by Microsoft.",
+  "Step 2: It is used for communication, collaboration, and teamwork in organizations and groups.",
+  "Step 3: Teams provides a unified workspace where members can chat, make audio and video calls, hold virtual meetings, and share files and documents."
+  ]
   },
   {
-    "Query": "How to Shut down computer",
-    "solution": "Alt+F4 and click down arrow till shut down option arrives and click enter"
-  }
+    "Query": "How do I record a meeting in Microsoft Teams?",
+    "Solution": [
+    "Step 1: Join or start a meeting in Microsoft Teams.",
+    "Step 2: Once you are in the meeting, locate the meeting controls at the bottom of the screen. Look for the 'More actions' button, which is represented by three dots.",
+    "Step 3: Click on the 'More actions' button and choose the 'Start recording' option from the menu. A notification will appear on the screen indicating that the meeting is being recorded. To stop the recording, click on the 'More actions' button again and select 'Stop recording'. The recorded meeting will be saved and can be accessed later."
+    ]
+    },
+    
+{
+  "Query": "How do I share my screen during a meeting in Microsoft Teams?",
+  "Solution": [
+  "Step 1: Join or start a meeting in Microsoft Teams.",
+  "Step 2: Once you are in the meeting, locate the meeting controls at the bottom of the screen. Look for the 'Share' button, which usually has an icon depicting a computer screen.",
+  "Step 3: Click on the 'Share' button to open the screen sharing options. You can choose to share your entire screen, a specific application window, or a PowerPoint presentation. Select the desired option and follow the on-screen prompts to start sharing your screen with the meeting participants."
+  ]
+  },
+  {
+    "Query": "How do I schedule a meeting in Microsoft Teams?",
+    "Solution": [
+    "Step 1: Open Microsoft Teams and sign in to your account.",
+    "Step 2: In the left sidebar, select the 'Calendar' tab.",
+    "Step 3: Click on the 'New Meeting' button to create a new meeting. Enter the meeting details such as the title, date, time, duration, and location. You can also add attendees by typing their names or email addresses in the 'Add required attendees' field. Once you've entered all the necessary information, click on the 'Save' or 'Send' button to schedule the meeting."
+    ]
+    },
+    
+{
+  "Query": "How do I send a message in a team or chat?",
+  "Solution": [
+  "Step 1: Open Microsoft Teams and sign in to your account.",
+  "Step 2: In the left sidebar, select the 'Teams' tab to access your teams or the 'Chat' tab to access your chats.",
+  "Step 3: To send a message in a team, click on the team name and select the channel where you want to send the message. Type your message in the message input field at the bottom of the screen and press Enter to send it. To send a message in a chat, select the chat with the person or group you want to message, type your message in the input field, and press Enter to send it."
+  ]
+  },
+  
+{
+  "Query": "How do I join an existing team in Microsoft Teams?",
+  "Solution": [
+  "Step 1: Open Microsoft Teams and sign in to your account.",
+  "Step 2: In the left sidebar, click on the 'Teams' tab to view your teams.",
+  "Step 3: Scroll through the list of teams or use the search bar to find the team you want to join. Once you've located the team, click on it to view the team's channels and conversations. You are now a member of the team and can start participating in its activities."
+  ]
+  },
+  
+{
+  "Query": "How do I add members to a team?",
+  "Solution": [
+  "Step 1: Open Microsoft Teams and navigate to the team to which you want to add members.",
+  "Step 2: In the team's channel, click on the 'More options' (three-dot) button next to the team name and select 'Add members' from the menu.",
+  "Step 3: In the 'Add members' window, enter the email addresses of the people you want to add as members or search for them in your organization's directory. You can also specify their roles and permissions within the team. Finally, click on the 'Add' or 'Save' button to add the members to the team."
+  ]
+  },
+  {
+    "Query": "How do I create a new team in Microsoft Teams?",
+    "Solution": [
+    "Step 1: Open Microsoft Teams and sign in to your account.",
+    "Step 2: In the left sidebar, click on the 'Teams' tab.",
+    "Step 3: At the bottom of the Teams panel, click on the 'Join or create a team' button. Then, select the 'Create a team' option and follow the prompts to set up a new team, including choosing a team type, adding members, and configuring team settings."
+    ]
+    },
+    {
+      "Query": "How do I sign in to Microsoft Teams?",
+      "Solution": [
+      "Step 1: Launch the Microsoft Teams application on your device.",
+      "Step 2: Enter your email address associated with your Microsoft account or your organization's account.",
+      "Step 3: Enter your password and click on the 'Sign In' button to log in to Microsoft Teams."
+      ]
+      },
+      {
+        "Query": "How do I create and share files in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, navigate to the desired team or channel.",
+          "Step 2: Click on the 'Files' tab to access the Files section.",
+          "Step 3: To create a new file, click on 'New' and choose the file type. To share an existing file, click on 'Upload' or select a file from the list. Files can be edited collaboratively within Teams."
+        ]
+      },
+      {
+        "Query": "How do I use channels within a team?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, select the desired team.",
+          "Step 2: Within the team, click on the 'Channels' tab to view existing channels or create new ones.",
+          "Step 3: To participate in channel conversations, click on a channel and start posting messages. Channels help organize team discussions and can be used to focus on specific topics or projects."
+        ]
+      },
+      {
+        "Query": "How do I add apps or integrations to Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, click on the 'Apps' icon in the sidebar.",
+          "Step 2: Browse through the available apps and integrations in the App Store. Click on an app to view its details.",
+          "Step 3: To add an app, click on 'Add' or 'Install' and follow the prompts. Once installed, the app will be accessible within Teams for enhanced functionality."
+        ]
+      },
+      {
+        "Query": "How do I manage notifications in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, click on your profile picture or initials in the top right corner.",
+          "Step 2: Select 'Settings' and navigate to the 'Notifications' section.",
+          "Step 3: Adjust your notification preferences, such as receiving message alerts, meeting reminders, and activity notifications. Customize settings for each notification type according to your preferences."
+        ]
+      },      
+      {
+        "Query": "How do I create and manage tasks in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, navigate to the desired team or channel.",
+          "Step 2: Click on the 'Tasks' tab to access the Tasks app (such as Microsoft Planner) integrated into Teams.",
+          "Step 3: Create new tasks, assign them to team members, set due dates, and track progress. Use the task management features within the app to organize and manage team tasks effectively."
+        ]
+      },
+      {
+        "Query": "How do I set up and use the Microsoft Teams mobile app?",
+        "Solution": [
+          "Step 1: Download and install the Microsoft Teams app from your mobile device's app store.",
+          "Step 2: Open the app and sign in using your Microsoft Teams account credentials.",
+          "Step 3: Explore the mobile app's features, such as accessing teams and channels, participating in chats and meetings, sharing files, and managing notifications on the go."
+        ]
+      },
+      {
+        "Query": "How do I set my status or availability in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, click on your profile picture or initials in the top right corner.",
+          "Step 2: Select 'Set status message' or 'Set status' from the menu.",
+          "Step 3: Choose a predefined status or create a custom status message to indicate your availability or current activity. You can also set your status as 'Do not disturb' to avoid interruptions."
+        ]
+      },
+      {
+        "Query": "How do I search for messages or content in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, click on the search bar at the top of the app.",
+          "Step 2: Enter your search query, such as keywords, sender's name, or content type.",
+          "Step 3: Review the search results, which will include relevant messages, files, people, and other content within Teams. Use filters or advanced search options to narrow down the results if needed."
+        ]
+      },
+      {
+        "Query": "How do I customize my Microsoft Teams settings and preferences?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, click on your profile picture or initials in the top right corner.",
+          "Step 2: Select 'Settings' from the menu.",
+          "Step 3: Explore the various settings categories, such as General, Notifications, Privacy, Appearance, and Devices. Customize your preferences according to your requirements, such as changing your theme, adjusting notification settings, managing privacy options, and configuring audio and video devices."
+        ]
+      },
+      {
+        "Query": "How do I leave or delete a team in Microsoft Teams?",
+        "Solution": [
+          "Step 1: In Microsoft Teams, navigate to the desired team in the left sidebar.",
+          "Step 2: Right-click on the team name and select 'Leave the team' to remove yourself from the team. If you're the team owner, choose 'Manage team' and then 'Settings' to access the option to delete the team.",
+          "Step 3: Follow the prompts to confirm your action. Leaving a team will remove it from your Teams list, while deleting a team will permanently remove it and its content for all members."
+        ]
+      },
+      {
+        "Query": "What is OneDrive, and how does it differ from other cloud storage services?",
+        "Solution": [
+        "Step 1: OneDrive is a cloud storage service provided by Microsoft.",
+        "Step 2: It allows users to store, sync, and share files and folders across multiple devices.",
+        "Step 3: OneDrive integrates seamlessly with other Microsoft services and offers features like automatic backup, collaboration tools, and advanced security measures."
+        ]
+        },
+        {
+        "Query": "How do I create a OneDrive account?",
+        "Solution": [
+        "Step 1: Visit the OneDrive website or download the OneDrive app on your device.",
+        "Step 2: Click on the 'Sign up' or 'Create account' option.",
+        "Step 3: Follow the on-screen prompts to enter your email address, create a password, and set up your OneDrive account."
+        ]
+        },
+        {
+        "Query": "Can I access my OneDrive files from multiple devices?",
+        "Solution": [
+        "Step 1: Yes, you can access your OneDrive files from multiple devices.",
+        "Step 2: Install the OneDrive app on each device or access OneDrive through a web browser.",
+        "Step 3: Sign in to your OneDrive account, and your files will be synced across all your devices, allowing you to access them anytime, anywhere."
+        ]
+        },
+        {
+        "Query": "How much storage space do I get with a free OneDrive account?",
+        "Solution": [
+        "Step 1: With a free OneDrive account, you get 5 GB of storage space.",
+        "Step 2: This storage can be used to store documents, photos, videos, and other types of files.",
+        "Step 3: If you need more space, you can consider upgrading your OneDrive storage plan."
+        ]
+        },
+        {
+        "Query": "How can I upgrade my OneDrive storage if I need more space?",
+        "Solution": [
+        "Step 1: Go to the OneDrive website and sign in to your account.",
+        "Step 2: Click on the 'Upgrade' or 'Get more storage' option.",
+        "Step 3: Follow the instructions to choose a suitable storage plan and complete the upgrade process."
+        ]
+        },
+        {
+        "Query": "How do I upload files and folders to OneDrive?",
+        "Solution": [
+        "Step 1: Open the OneDrive app or website and sign in to your account.",
+        "Step 2: Navigate to the location where you want to upload the files or create a new folder.",
+        "Step 3: Click on the 'Upload' button, select the files or folders from your device, and confirm the upload."
+        ]
+        },
+        {
+        "Query": "Can I organize my files and folders in OneDrive?",
+        "Solution": [
+        "Step 1: Yes, you can organize your files and folders in OneDrive.",
+        "Step 2: Create folders to categorize your files and drag-and-drop files into the desired folders.",
+        "Step 3: You can also use features like renaming, moving, and deleting files to manage your content in OneDrive."
+        ]
+        },
+        {
+        "Query": "How can I share files and folders with others using OneDrive?",
+        "Solution": [
+        "Step 1: Select the file or folder you want to share in OneDrive.",
+        "Step 2: Click on the 'Share' button and enter the email addresses or names of the people you want to share with.",
+        "Step 3: Choose the permission settings for the recipients and send the sharing invitation. They will receive a link to access the shared content."
+        ]
+        },
+        {
+          "Query": "Can I collaborate on documents with others in real-time using OneDrive?",
+          "Solution": [
+          "Step 1: Yes, you can collaborate on documents with others in real-time using OneDrive.",
+          "Step 2: Store the document in OneDrive and share it with the collaborators.",
+          "Step 3: Multiple users can edit the document simultaneously, and changes are synced in real-time."
+          ]
+          },
+          {
+          "Query": "How do I access and edit my OneDrive files offline?",
+          "Solution": [
+          "Step 1: Install the OneDrive app on your device and sign in to your account.",
+          "Step 2: In the app settings, enable the 'Offline access' or 'Available offline' option for the desired files or folders.",
+          "Step 3: The selected files will be downloaded to your device, allowing you to access and edit them offline."
+          ]
+          },
+          {
+          "Query": "Can I recover deleted files from OneDrive?",
+          "Solution": [
+          "Step 1: Open the OneDrive website or app and sign in to your account.",
+          "Step 2: Go to the 'Recycle bin' or 'Deleted files' section.",
+          "Step 3: Select the files you want to recover and choose the 'Restore' option to restore them to their original location."
+          ]
+          },
+          {
+          "Query": "How do I sync my desktop files to OneDrive?",
+          "Solution": [
+          "Step 1: Install the OneDrive desktop application on your computer.",
+          "Step 2: Sign in to your OneDrive account within the application.",
+          "Step 3: Follow the prompts to choose the folders you want to sync with OneDrive, and the files will be automatically synced."
+          ]
+          },
+          {
+          "Query": "Can I access my OneDrive files without an internet connection?",
+          "Solution": [
+          "Step 1: Yes, you can access your OneDrive files without an internet connection.",
+          "Step 2: Make sure to enable offline access for the desired files or folders in the OneDrive app.",
+          "Step 3: Once downloaded, you can open and work on the files offline, and changes will sync when you're back online."
+          ]
+          },
+          {
+          "Query": "How can I access OneDrive from a mobile device?",
+          "Solution": [
+          "Step 1: Download and install the OneDrive app from your device's app store.",
+          "Step 2: Launch the app and sign in to your OneDrive account.",
+          "Step 3: You can now access and manage your OneDrive files directly from your mobile device."
+          ]
+          },
+          {
+          "Query": "Is there a way to password protect my files in OneDrive?",
+          "Solution": [
+          "Step 1: OneDrive does not offer a built-in password protection feature.",
+          "Step 2: However, you can encrypt sensitive files before uploading them to OneDrive using third-party encryption tools.",
+          "Step 3: This ensures that only authorized individuals can access and decrypt the files."
+          ]
+          },
+          {
+          "Query": "Can I use OneDrive with Microsoft Office applications?",
+          "Solution": [
+          "Step 1: Yes, OneDrive integrates seamlessly with Microsoft Office applications.",
+          "Step 2: Open Office documents directly from OneDrive or save files to OneDrive while working in Office apps.",
+          "Step 3: This enables easy collaboration, automatic syncing, and access to files across devices."
+          ]
+          },
+          {
+          "Query": "How can I restore a previous version of a file in OneDrive?",
+          "Solution": [
+          "Step 1: Open the OneDrive website or app and sign in to your account.",
+          "Step 2: Navigate to the location of the file and right-click on it.",
+          "Step 3: From the context menu, select 'Version history' and choose the desired version to restore."
+          ]
+          },
+          {
+          "Query": "Are my OneDrive files backed up in case of data loss?",
+          "Solution": [
+          "Step 1: OneDrive can be used as a backup solution for your files, but it's not a dedicated backup service.",
+          "Step 2: While files stored in OneDrive are protected, it's recommended to have an additional backup solution for critical data.",
+          "Step 3: Regularly create backups of important files using other backup methods to ensure data redundancy."
+          ]
+          },
+          {
+          "Query": "Can I set up automatic file backups to OneDrive?",
+          "Solution": [
+          "Step 1: OneDrive does not provide native automatic file backup functionality.",
+          "Step 2: However, you can use third-party backup software that supports backing up files to OneDrive.",
+          "Step 3: Configure the backup software to schedule automatic backups of selected files or folders to your OneDrive storage."
+          ]
+          },
+          {
+          "Query": "How do I uninstall OneDrive from my computer if I no longer need it?",
+          "Solution": [
+          "Step 1: On Windows, right-click the OneDrive icon in the system tray and select 'Settings'.",
+          "Step 2: In the 'Settings' tab, click the 'Unlink OneDrive' button.",
+          "Step 3: Follow the prompts to uninstall OneDrive from your computer. On macOS, drag the OneDrive app to the trash."
+          ]
+          },
+          {
+            "Query": "New document shortcut in Word?",
+            "Solution": "Ctrl + N"
+            },
+            {
+            "Query": "Shortcut to open an existing document in Word?",
+            "Solution": "Ctrl + O"
+            },
+            {
+            "Query": "Save document shortcut in Word?",
+            "Solution": "Ctrl + S"
+            },
+            {
+            "Query": "Print document shortcut in Word?",
+            "Solution": "Ctrl + P"
+            },
+            {
+            "Query": "Undo action shortcut in Word?",
+            "Solution": "Ctrl + Z"
+            },
+            {
+            "Query": "Redo action shortcut in Word?",
+            "Solution": "Ctrl + Y"
+            },
+            {
+            "Query": "Cut text/object shortcut in Word?",
+            "Solution": "Ctrl + X"
+            },
+            {
+            "Query": "Copy text/object shortcut in Word?",
+            "Solution": "Ctrl + C"
+            },
+            {
+            "Query": "Paste text/object shortcut in Word?",
+            "Solution": "Ctrl + V"
+            },
+            {
+            "Query": "Shortcut to apply/remove bold formatting in Word?",
+            "Solution": "Ctrl + B"
+            },
+            {
+            "Query": "Italic formatting shortcut in Word?",
+            "Solution": "Ctrl + I"
+            },
+            {
+            "Query": "Underline formatting shortcut in Word?",
+            "Solution": "Ctrl + U"
+            },
+            {
+            "Query": "Select entire document shortcut in Word?",
+            "Solution": "Ctrl + A"
+            },
+            {
+            "Query": "Find specific text shortcut in Word?",
+            "Solution": "Ctrl + F"
+            },
+            {
+            "Query": "Find and Replace shortcut in Word?",
+            "Solution": "Ctrl + H"
+            },
+            {
+            "Query": "Insert hyperlink shortcut in Word?",
+            "Solution": "Ctrl + K"
+            },
+            {
+            "Query": "Left align shortcut in Word?",
+            "Solution": "Ctrl + L"
+            },
+            {
+            "Query": "Center align shortcut in Word?",
+            "Solution": "Ctrl + E"
+            },
+            {
+            "Query": "Right align shortcut in Word?",
+            "Solution": "Ctrl + R"
+            },
+            {
+            "Query": "Justify text shortcut in Word?",
+            "Solution": "Ctrl + J"
+            },
+            {
+            "Query": "Indent paragraph shortcut in Word?",
+            "Solution": "Ctrl + M"
+            },
+            {
+            "Query": "Remove paragraph indent shortcut in Word?",
+            "Solution": "Ctrl + Shift + M"
+            },
+            {
+            "Query": "Increase font size shortcut in Word?",
+            "Solution": "Ctrl + Shift + >"
+            },
+            {
+            "Query": "Decrease font size shortcut in Word?",
+            "Solution": "Ctrl + Shift + <"
+            },
+            {
+            "Query": "Increase font size by one point shortcut in Word?",
+            "Solution": "Ctrl + ]"
+            },
+            {
+            "Query": "Decrease font size by one point shortcut in Word?",
+            "Solution": "Ctrl + ["
+            },
+            {
+            "Query": "Insert page break shortcut in Word?",
+            "Solution": "Ctrl + Enter"
+            },
+            {
+            "Query": "Change font shortcut in Word?",
+            "Solution": "Ctrl + Shift + F"
+            },
+            {
+            "Query": "Change font size shortcut in Word?",
+            "Solution": "Ctrl + Shift + P"
+            },
+            {
+            "Query": "Quick font size change shortcut in Word?",
+            "Solution": "Ctrl + Shift + > or Ctrl + Shift + <"
+            },
+            {
+              "Query": "Shortcut to create a new workbook in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + N"
+              ]
+              },
+              
+              {
+              "Query": "Open an existing workbook shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + O"
+              ]
+              },
+              
+              {
+              "Query": "Save workbook shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + S"
+              ]
+              },
+              
+              {
+              "Query": "Print workbook shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + P"
+              ]
+              },
+              
+              {
+              "Query": "Undo action shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Z"
+              ]
+              },
+              
+              {
+              "Query": "Redo action shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Y"
+              ]
+              },
+              
+              {
+              "Query": "Cut cells shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + X"
+              ]
+              }
+              ,
+              {
+              "Query": "Copy cells shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + C"
+              ]
+              },
+              
+              {
+              "Query": "Paste cells shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + V"
+              ]
+              },
+              
+              {
+              "Query": "Shortcut to insert current date in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + ;"
+              ]
+              },
+              
+              {
+              "Query": "Insert current time shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Shift + ;"
+              ]
+              },
+              
+              {
+              "Query": "Bold formatting shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + B"
+              ]
+              }
+              ,
+              {
+              "Query": "Italic formatting shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + I"
+              ]
+              }
+              ,
+              {
+              "Query": "Underline formatting shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + U"
+              ]
+              }
+              ,
+              {
+              "Query": "Select entire column shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Spacebar"
+              ]
+              },
+              
+              {
+              "Query": "Select entire row shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Shift + Spacebar"
+              ]
+              },
+              
+              {
+              "Query": "Find specific text shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + F"
+              ]
+              },
+              
+              {
+              "Query": "Replace text shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + H"
+              ]
+              },
+              
+              {
+              "Query": "Insert new worksheet shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Shift + F11"
+              ]
+              },
+              
+              {
+              "Query": "Delete selected row/column shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + -"
+              ]
+              },
+              
+              {
+              "Query": "Hide selected row/column shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + 8"
+              ]
+              },
+              
+              {
+              "Query": "Shortcut to format cells in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + 1"
+              ]
+              },
+              
+              {
+              "Query": "Insert new comment shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Shift + F2"
+              ]
+              },
+              
+              {
+              "Query": "Calculate all worksheets shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press F9"
+              ]
+              },
+              
+              {
+              "Query": "Autosum selected cells shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Alt + ="
+              ]
+              },
+              
+              {
+              "Query": "Copy formula shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + D"
+              ]
+              },
+              
+              {
+              "Query": "Shortcut to sort selected data in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Shift + Sort Key (e.g., Ctrl + Shift + A to sort in ascending order)"
+              ]
+              },
+              
+              {
+              "Query": "Filter selected data shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Ctrl + Shift + L"
+              ]
+              },
+              
+              {
+              "Query": "Group selected cells/rows/columns shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Shift + Alt + Right Arrow (for columns) or Shift + Alt + Down Arrow (for rows)"
+              ]
+              },
+              
+              {
+              "Query": "Ungroup selected cells/rows/columns shortcut in Excel?",
+              "Solution": [
+              "Step 1: Press Shift + Alt + Left Arrow (for columns) or Shift + Alt + Up Arrow (for rows)"
+              ]
+              },
+              {
+                "Query": "How do I schedule events in Outlook Calendar?",
+                "Solution": [
+                  "To schedule events in the Outlook calendar, follow these steps:",
+                  "1. Open Outlook Calendar: Open Outlook and navigate to the Calendar section.",
+                  "2. Create a New Event: Click on the desired date and time in the calendar to create a new event. A pop-up window will appear.",
+                  "3. Enter Event Details: In the event window, enter the details for your event, including the title, location, start time, end time, and any additional information you want to include. You can also set reminders, invite attendees, and specify the event's recurrence if needed.",
+                  "Once you've entered all the necessary information, click the 'Save' or 'Create' button to schedule the event in your Outlook calendar. The event will be visible on the selected date and time, and you can view and manage it from your Outlook calendar."
+                ]
+              },
+              {
+                "Query": "How do I create an Outlook account?",
+                "Solution": [
+                  "To create an Outlook account, follow these three steps:",
+                  "1. Visit the Outlook Website: Go to the Outlook website (outlook.com) using a web browser.",
+                  "2. Click on Create Account: Look for the 'Create account' or 'Sign up' button on the Outlook website and click on it.",
+                  "3. Fill in the Required Information: Follow the prompts to enter your information, such as your name, desired email address, password, and any other required details. Make sure to choose a strong and secure password.",
+                  "Once you've entered all the necessary information, complete any additional steps or verification processes as prompted, and your Outlook account will be created. You can then use your new account to access Outlook's email, calendar, and other features."
+                ]
+              },
+             
+              {
+                "Query": "How do I compose and send an email?",
+                "Solution": [
+                  "To compose and send an email, follow these three steps:",
+                  "1. Open Outlook: Launch the Outlook application on your device or go to the Outlook website.",
+                  "2. Click on 'New Message' or 'Compose': Look for the 'New Message' or 'Compose' button and click on it to start a new email.",
+                  "3. Fill in the Email Details and Send: Enter the recipient's email address in the 'To' field, add a subject in the 'Subject' field, and write your message in the main body area. Once you've composed your email, click the 'Send' button to send it.",
+                  "Your email will be sent to the recipient(s) you specified."
+                ]
+              },
+              {
+                "Query": "How do I add contacts in Outlook?",
+                "Solution": [
+                  "To add contacts in Outlook, follow these three steps:",
+                  "1. Open Outlook: Launch the Outlook application on your device or go to the Outlook website.",
+                  "2. Access the Contacts Section: Look for the 'Contacts' icon or tab in the navigation menu and click on it to access the Contacts section.",
+                  "3. Add a New Contact: In the Contacts section, click on the 'New Contact' button or option to create a new contact. Fill in the contact's information, such as their name, email address, phone number, and any additional details you want to include. Once you've entered the contact details, save the contact.",
+                  "The contact will be added to your Outlook address book and can be easily accessed when you need to send an email or communicate with that contact."
+                ]
+              }
+              
+              
+              
+          
+      
+
+    
 ]

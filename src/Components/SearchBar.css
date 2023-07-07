@@ -1,6 +1,7 @@
 .search {
   display: flex;
   align-items: flex-start; /* Align search bar and results vertically */
+  position: relative; /* Add position relative to enable absolute positioning for the cross mark */
 }
 
 .searchInputs {
@@ -8,18 +9,30 @@
 }
 
 .searchBar {
-  width: 200px;
-  height: 30px;
+  width: 400px;
+  height: 40px;
   padding: 5px;
   font-size: 16px;
   border: none;
 }
 
+.searchBar input {
+  width: 20%; /* Ensure the input field takes up the entire width */
+}
+
+.searchBar .close-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
 .dataResult {
-  width: 300px;
-  height: 200px;
+  width: 400px;
+  height: 300px; /* Increase the height to make the choice bar larger */
   background-color: white;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: #00000059 0px 5px 15px;
   overflow-y: auto;
 }
 
@@ -41,4 +54,10 @@
 
 .dataItem:hover {
   background-color: lightgray;
+}
+
+.selectedSolution {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: lightblue;
 }
